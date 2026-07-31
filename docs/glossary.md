@@ -1,0 +1,1 @@
+# Glossary**CNN** A type of neural network built for images. It looks for small patterns like edges and builds them up.**Transfer learning** Starting from a model already trained on other images, then teaching it our task.**Epoch** One full pass through all the training images.**Class imbalance** When one answer is far more common than the other. Ours is about 15 percent cracked.
