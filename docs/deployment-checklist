@@ -1,0 +1,8 @@
+git checkout main
+git pull origin main
+git checkout -b docs/deployment-checklist
+# create or edit: docs/deployment_checklist.md
+git add .
+git commit -m "docs: add deployment checklist"
+git push origin docs/deployment-checklist
+# then open the pull request on GitHub
