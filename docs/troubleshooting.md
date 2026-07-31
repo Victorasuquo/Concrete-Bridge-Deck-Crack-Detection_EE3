@@ -1,0 +1,7 @@
+#Troubleshooting
+||
+CannotfindtheAddfilebuttonTurnonDesktopsiteinyourbrowser
+ProblemFix|
+Kaggledownloadfailswith403|TheAPItokenismissingorexpired
+NoGPUfoundinColabRuntime,Changeruntimetype,T4GPU,thenrestart|
+AppfailstodeployApackageismissingfromrequirements.txt|
