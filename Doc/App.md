@@ -1,0 +1,10 @@
+Opentheapplink.
+2.Taptheuploadareaandchooseaphotoofaconcrete
+3.Waitamomentwhilethemodelruns.
+Ahighpercentagemeansthemodelissure.Apercentagenear
+50meansthemodelisunsure,andapersonshouldlookat
+##Readingtheconfidence
+4.Readtheresult:CrackedorNotcracked,witha
+confidencepercentage.
+surface.JPGorPNG.
+thatimagethemselves.
