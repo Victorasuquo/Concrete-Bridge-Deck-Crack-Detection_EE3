@@ -1,0 +1,13 @@
+{
+  "model_path": "/kaggle/working/models/crack_detector.keras",
+  "input_size": [
+    224,
+    224
+  ],
+  "threshold": 0.1,
+  "class_names": [
+    "Negative",
+    "Positive"
+  ],
+  "preprocessing": "resize to 224x224, rescale 1/255"
+}
